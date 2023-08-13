@@ -1,0 +1,54 @@
+.bottom {
+    margin-top: 150px;
+}
+ 
+body {
+    background-color: #87689c;
+}
+.container {
+    width: 600px;
+    height: 400px;
+    margin: 200px auto;
+    border: 3px solid #fff;
+    background-color: black;
+}
+.text {
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+.blok-1 input {
+    width: 70%;
+    padding: 10px; 
+    margin-top: 30px;
+    margin-left: 66px;
+    font-size: 20px;
+    border: #fff solid 2px;
+    border-radius: 5px;
+    outline: none;
+}
+.button {
+    text-align: center;
+    padding: 10px 40px;
+    font-size: 18px;
+    border-radius: 5px;
+    background-color:#87689c ;
+    color: #fff;
+    margin-left: 235px;
+    margin-top: 30px;
+}
+.botton:hover {
+    cursor: pointer;
+    background-color: #fff;
+    color: black;
+}
+.blok-2 {
+    text-align: center;
+    margin-top: 70px;
+}
+.forgot {
+    color: yellow
+}
+.click {
+    color: rgb(5, 5, 246);
+}
